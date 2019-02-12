@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -41,7 +41,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-  <key>NSLocationWhenInUseUsageDescription</key>
-  <string>We need to access your location to improve user experience</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need to access your location to improve user experience</string>
+	<key>CFBundleName</key>
+	<string>DeliveryPersonApp.iOS</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>We will use FaceID to log you into the app.</string>
 </dict>
 </plist>
